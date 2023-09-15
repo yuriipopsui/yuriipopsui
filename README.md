@@ -25,6 +25,7 @@
 
 <h1> 🧰 Repositories: </h1>
 
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yuriipopsui&repo=movium&theme=material-palenight)](https://github.com/yuriipopsui/movium)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yuriipopsui&repo=decorio&theme=material-palenight)](https://github.com/yuriipopsui/decorio)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yuriipopsui&repo=autodrive&theme=material-palenight)](https://github.com/yuriipopsui/autodrive)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yuriipopsui&repo=marcho-store&theme=material-palenight)](https://github.com/yuriipopsui/marcho-store)
